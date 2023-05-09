@@ -1,0 +1,16 @@
+/*main font*/
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+/*footer font*/
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+/*landing font*/
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
