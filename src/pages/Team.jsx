@@ -1,49 +1,14 @@
+//team pages....
+
 import profile from '../assets/team/empty-icon.webp'
 
 const people = [
   {
-    name: 'Avryl Julia',
+    name: 'sIUzy saur',
     role: 'Chief Executive Officer / CEO',
     imageUrl: profile,
   
   },
-
-  {
-    name: 'Janelle Rempillo',
-    role: 'Chief Operating Officer / COO',
-    imageUrl: profile,
-  
-  },
-  {
-    name: 'Justin Peligro',
-    role: 'Chief Technology Officer / CTO',
-    imageUrl: profile,
-  
-  },
-
-  {
-    name: 'Gelai Pacapac',
-    role: 'Chief Information Officer / CIO',
-    imageUrl: profile,
-  
-  },
-  {
-    name: 'Charles Satorre',
-    role: 'Cybersecurity Analyst',
-    imageUrl: profile,
-  
-  },
-
-  {
-    name: 'Nathan Padua',
-    role: 'Information Security Analyst',
-    imageUrl: profile,
-  
-  },
-
-  
- 
- 
   
   // More people...
 ]
