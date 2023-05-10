@@ -1,3 +1,5 @@
+//the main component contain all of the pages component.
+
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
