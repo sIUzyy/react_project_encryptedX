@@ -1,16 +1,12 @@
+//error page
+//this page will show if the path is wrong
+
 import { Link } from "react-router-dom"
 
 export default function Error() {
     return (
       <div className="">
-        {/*
-          This example requires updating your template:
-  
-          ```
-          <html class="h-full">
-          <body class="h-full">
-          ```
-        */}
+       
         <main className="grid min-h-full place-items-center bg-white py-60 md:py-80 md:mb-12">
           <div className="text-center">
             <p className="text-base font-semibold text-indigo-600">404</p>
