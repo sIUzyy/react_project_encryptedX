@@ -3,8 +3,7 @@
 ..in your terminal, follow the step 1. <br>
 
 To obtain the code, simply follow these steps as outlined. <br>
-
-1. git clone [http, ssh, or gh path]
+1.git clone [http, ssh, or gh path]
 
 visit the website for reference:
 https://encryptedx.netlify.app
