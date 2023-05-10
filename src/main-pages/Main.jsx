@@ -1,3 +1,5 @@
+//main component, render all of the component
+
 import React from 'react'
 import Landing from '../pages/Landing'
 import About from '../pages/About'
