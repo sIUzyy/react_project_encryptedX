@@ -1,3 +1,5 @@
+//pricing page....
+
 import { CheckIcon } from '@heroicons/react/20/solid'
 
 const includedFeatures = [
