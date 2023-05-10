@@ -1,4 +1,4 @@
-//error page
+//error page....
 //this page will show if the path is wrong
 
 import { Link } from "react-router-dom"
