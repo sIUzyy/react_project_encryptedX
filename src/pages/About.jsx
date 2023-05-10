@@ -1,5 +1,6 @@
-import React from 'react'
+//about page....
 
+import React from 'react'
 
 const About = () => {
   return (
