@@ -1,3 +1,5 @@
+//navbar pages....
+
 import React, {useState} from 'react'
 import logo from '../assets/en-logo-white.webp'
 import {  Link  } from 'react-scroll'
