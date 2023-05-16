@@ -11,6 +11,7 @@ const Navbar = () => {
 
   const [nav, setNav] = useState(false)
 
+  //if they click the hamburger icon, it will show the content, likewise.
   const handleNav = () => {
     setNav(!nav)
   }
